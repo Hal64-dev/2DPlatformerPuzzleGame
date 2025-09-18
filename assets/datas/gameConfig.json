@@ -1,0 +1,90 @@
+{
+  "tileImages": [
+    "",
+    "grounds/ground_topLeft.png",
+    "grounds/ground_topCenter.png",
+    "grounds/ground_topRight.png",
+    "grounds/ground_middleRight.png",
+    "grounds/ground_bottomRight.png",
+    "grounds/ground_bottomCenter.png",
+    "grounds/ground_bottomLeft.png",
+    "grounds/ground_middleLeft.png",
+    "grounds/ground_middleCenter.png",
+    "ballSwitches/ballSwitch_0.png",
+    "ballSwitches/ballSwitch_1.png",
+    "playerSwitches/playerSwitch_0.png",
+    "playerSwitches/playerSwitch_1.png",
+    "toggles/toggle_0.png",
+    "toggles/toggle_1.png",
+    "goal.png",
+    "laserEmitters/laserEmitter_right.png",
+    "laserEmitters/laserEmitter_up.png",
+    "laserEmitters/laserEmitter_left.png",
+    "laserEmitters/laserEmitter_down.png",
+    "laserReceivers/laserReceiver_0.png",
+    "laserReceivers/laserReceiver_1.png",
+    "ballGenerators/ballGenerator_right_on.png",
+    "ballGenerators/ballGenerator_right_off.png",
+    "ballGenerators/ballGenerator_rightUp_on.png",
+    "ballGenerators/ballGenerator_rightUp_off.png",
+    "ballGenerators/ballGenerator_up_on.png",
+    "ballGenerators/ballGenerator_up_off.png",
+    "ballGenerators/ballGenerator_leftUp_on.png",
+    "ballGenerators/ballGenerator_leftUp_off.png",
+    "ballGenerators/ballGenerator_left_on.png",
+    "ballGenerators/ballGenerator_left_off.png",
+    "ballGenerators/ballGenerator_leftDown_on.png",
+    "ballGenerators/ballGenerator_leftDown_off.png",
+    "ballGenerators/ballGenerator_down_on.png",
+    "ballGenerators/ballGenerator_down_off.png",
+    "ballGenerators/ballGenerator_rightDown_on.png",
+    "ballGenerators/ballGenerator_rightDown_off.png"
+  ],
+
+  "uiImages": {
+    "keys": {
+      "leftArrow" : [
+        "keys/left_arrow_0.png",
+        "keys/left_arrow_1.png"
+      ],
+      "rightArrow" : [
+        "keys/right_arrow_0.png",
+        "keys/right_arrow_1.png"
+      ],
+      "upArrow" : [
+        "keys/up_arrow_0.png",
+        "keys/up_arrow_1.png"
+      ],
+      "downArrow" : [
+        "keys/down_arrow_0.png",
+        "keys/down_arrow_1.png"
+      ],
+      "r" : [
+        "keys/r_0.png",
+        "keys/r_1.png"
+      ]
+    },
+    "icons": {
+      "mapReload" : "icons/mapReload.png"
+    }
+  },
+
+  "mapPaths": [
+    "assets/datas/maps/map_TutorialActions.json",
+    "assets/datas/maps/map_TutorialPlayerButtons.json",
+    "assets/datas/maps/map_Mirror.json",
+    "assets/datas/maps/map_DangerLaser.json",
+    "assets/datas/maps/map_ReceiveTheLaser.json",
+    "assets/datas/maps/map_TwinBalls.json",
+    "assets/datas/maps/map_Clear.json"
+  ],
+
+  "fonts" : {
+    "pixelMplus" : {
+      "10Bold" :    "assets/fonts/pixelMplus/PixelMplus10-Bold.ttf",
+      "10Regular" : "assets/fonts/pixelMplus/PixelMplus10-Regular.ttf",
+      "12Bold" :    "assets/fonts/pixelMplus/PixelMplus12-Bold.ttf",
+      "12Regular" : "assets/fonts/pixelMplus/PixelMplus12-Regular.ttf"
+    }
+  }
+}
